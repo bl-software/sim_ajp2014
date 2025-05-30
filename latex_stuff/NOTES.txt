@@ -1,0 +1,3 @@
+Better Transparency http://latex2png.com/ USE resolution 150
+#OLDER
+#./tex2png -s12 "$(cat h2co3_pk2.tex)" h2co3_pk2.png
