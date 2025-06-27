@@ -4,6 +4,8 @@
 
 '''GUI frontend for Cell Modelling program'''
 
+#TODO BUG Atot1 - just put in value instead of f__aXtotin
+
 import sys
 import socket
 import os
